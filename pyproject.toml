@@ -1,0 +1,10 @@
+[project]
+name = "sfguide-getting-started-with-snowflake-devops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "snowflake>=1.9.0",
+    "snowflake-snowpark-python>=1.42.0",
+]
